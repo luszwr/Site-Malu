@@ -5,7 +5,7 @@ Este repositório contém os primeiros projetos em HTML desenvolvidos durante o 
 Os projetos foram feitos com o objetivo de praticar:
 
 - Estrutura básica de uma página HTML
-- Uso de tags como '< head >', '< body >', etc.
+- Uso de tags como '< head >', '< body >', '< strong >', etc.
 - Inserção de imagens, vídeos e links
 
 ## Projetos incluídos
